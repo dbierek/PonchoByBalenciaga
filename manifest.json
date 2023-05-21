@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+	"version": "0.1.0",
+	"id": "DannyBierek.PonchoByBalenciaga",
+	"name": "Poncho By Balenciaga",
+	"description": "Adds a selectable Lucas Grey rain poncho outfit",
+	"blobsFolders": ["blobs"],
+	"authors": ["Danny Bierek"],
+	"frameworkVersion": "2.15.1",
+	"contentFolders": ["content"],
+	"localisation": {
+		"english": {
+			"UI_TOKEN_OUTFIT_LUCAS_GREY_PONCHO_NAME": "Poncho by Balenciaga",
+			"UI_TOKEN_OUTFIT_LUCAS_GREY_PONCHO_DESC": "Understated, yet functional piece that adds an air of mystery. Where is he going? Will it be raining? What's under the poncho? We'll never know. Sleek and slimming, and suitable for all situations where a poncho is in order. Rain or shine, always in style."
+		}
+	},
+	"dependencies": [
+		{
+			"runtimeID": "009B5962B1FCAA8C",
+			"comment": "Lucas Grey's head mesh"
+		},
+		{
+			"runtimeID": "005089935EC550BA",
+			"comment": "charset_cinematic_lucasgrey_poncho",
+			"portFromChunk1": true,
+			"toChunk": 0
+		}
+	]
+}

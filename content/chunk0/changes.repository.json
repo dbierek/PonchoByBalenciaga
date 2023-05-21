@@ -1,0 +1,14 @@
+{
+	"92c848bb-e5fe-4591-a784-a8b59bb6bf2c": {
+		"Category": "",
+		"CommonName": "UI_TOKEN_OUTFIT_LUCAS_GREY_PONCHO",
+		"Description": "UI_TOKEN_OUTFIT_LUCAS_GREY_PONCHO_DESC",
+		"HeroDisguiseAvailable": true,
+		"ID_": "92c848bb-e5fe-4591-a784-a8b59bb6bf2c",
+		"Image": "images/outfits/outfit_lucas_grey_poncho.jpg",
+		"ImageTransparent": "images/outfits/outfit_lucas_grey_poncho.png",
+		"IsHitmanSuit": true,
+		"Name_": "UI_TOKEN_OUTFIT_LUCAS_GREY_PONCHO",
+		"TokenID": ""
+	}
+}

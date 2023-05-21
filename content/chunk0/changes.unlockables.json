@@ -1,0 +1,30 @@
+{
+	"TOKEN_OUTFIT_LUCAS_GREY_PONCHO": {
+		"Id": "TOKEN_OUTFIT_LUCAS_GREY_PONCHO",
+		"Guid": "2d9b323b-7607-4038-a4e0-3b602e67abf3",
+		"Type": "disguise",
+		"Subtype": "disguise",
+		"ImageId": "",
+		"RMTPrice": 99,
+		"GamePrice": 99,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 1,
+			"Rarity": "common",
+			"LoadoutSlot": "disguise",
+			"RepositoryId": "92c848bb-e5fe-4591-a784-a8b59bb6bf2c",
+			"OrderIndex": 640,
+			"AllowUpSync": true
+		},
+		"Rarity": "common",
+		"IsDroppable": false
+	},
+	"PACKAGE_STARTING_PACKAGE": {
+		"Properties": {
+			"Unlocks": ["TOKEN_OUTFIT_LUCAS_GREY_PONCHO"]
+		}
+	}
+}

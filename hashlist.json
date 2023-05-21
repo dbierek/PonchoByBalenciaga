@@ -1,0 +1,26 @@
+[
+	{
+		"hash": "00EAB2203C49189A",
+		"ioiString": "[assembly:/ponchobybalenciaga/charset_lucasgrey_poncho.entitytemplate].pc_entitytype"
+	},
+	{
+		"hash": "0095ADB5338B9694",
+		"ioiString": "[assembly:/ponchobybalenciaga/charset_lucasgrey_poncho.entitytemplate].pc_entityblueprint"
+	},
+	{
+		"hash": "0013C02428532D4C",
+		"ioiString": "[assembly:/ponchobybalenciaga/outfit_lucasgrey_poncho_heroa_v0.entitytemplate].pc_entitytype"
+	},
+	{
+		"hash": "00140163725620E9",
+		"ioiString": "[assembly:/ponchobybalenciaga/outfit_lucasgrey_poncho_heroa_v0.entitytemplate].pc_entityblueprint"
+	},
+	{
+		"hash": "00270045FB4F2FDC",
+		"ioiString": "[assembly:/ponchobybalenciaga/outfits.brick].pc_entitytype"
+	},
+	{
+		"hash": "0003D6A4A371B227",
+		"ioiString": "[assembly:/ponchobybalenciaga/outfits.brick].pc_entityblueprint"
+	}
+]
