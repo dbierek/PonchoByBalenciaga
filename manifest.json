@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.2.0",
+	"version": "0.1.0",
 	"id": "DannyBierek.PonchoByBalenciaga",
 	"name": "Poncho By Balenciaga",
 	"description": "Adds a selectable Lucas Grey rain poncho outfit",
@@ -8,6 +8,10 @@
 	"authors": ["Danny Bierek"],
 	"frameworkVersion": "2.15.1",
 	"contentFolders": ["content"],
+	"localisedLines": {
+		"005CCC76031E18DE": "UI_TOKEN_OUTFIT_LUCAS_GREY_PONCHO_NAME",
+		"00776E88A1776384": "UI_TOKEN_OUTFIT_LUCAS_GREY_PONCHO_DESC"
+	},
 	"localisation": {
 		"english": {
 			"UI_TOKEN_OUTFIT_LUCAS_GREY_PONCHO_NAME": "Poncho by Balenciaga",

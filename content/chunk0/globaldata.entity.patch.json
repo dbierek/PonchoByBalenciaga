@@ -21,14 +21,14 @@
 						"m_rNameTextResource": {
 							"type": "ZRuntimeResourceID",
 							"value": {
-								"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_hero.sweetmenutext?/58798f32-1293-4b2a-a7b7-94d504d3c395_char_reward_hero_wintersuitandgloves_m_hpa2808_name_.sweetline].pc_sweetline",
+								"resource": "005CCC76031E18DE",
 								"flag": "5F"
 							}
 						},
 						"m_rDescriptionTextResource": {
 							"type": "ZRuntimeResourceID",
 							"value": {
-								"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_hero.sweetmenutext?/58798f32-1293-4b2a-a7b7-94d504d3c395_char_reward_hero_wintersuitandgloves_m_hpa2808_description_.sweetline].pc_sweetline",
+								"resource": "00776E88A1776384",
 								"flag": "5F"
 							}
 						},
